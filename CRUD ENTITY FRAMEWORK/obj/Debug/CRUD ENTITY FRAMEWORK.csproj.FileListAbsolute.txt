@@ -1,0 +1,60 @@
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\CRUD ENTITY FRAMEWORK.exe.config
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\CRUD ENTITY FRAMEWORK.exe
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\CRUD ENTITY FRAMEWORK.pdb
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\EntityFramework.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Buffers.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Collections.Immutable.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Memory.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\EntityFramework.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Buffers.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Collections.Immutable.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Memory.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.csproj.AssemblyReference.cache
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD_ENTITY_FRAMEWORK.Form1.resources
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD_ENTITY_FRAMEWORK.Properties.Resources.resources
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.csproj.GenerateResource.cache
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.csproj.CopyComplete
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.exe
+C:\Users\josia\Desktop\CRUD ENTITY FRAMEWORK\CRUD ENTITY FRAMEWORK\obj\Debug\CRUD ENTITY FRAMEWORK.pdb
